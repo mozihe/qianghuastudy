@@ -1,0 +1,3 @@
+/home/zhujunheng/CLionProjects/zmq/cmake-build-debug/CMakeFiles/zmq.dir
+/home/zhujunheng/CLionProjects/zmq/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zhujunheng/CLionProjects/zmq/cmake-build-debug/CMakeFiles/rebuild_cache.dir
